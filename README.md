@@ -3,7 +3,7 @@
 
 ---
 
-## 💫 About Me
+##  About Me
 
 I am currently pursuing my MCA at RV Institute of Technology and Management (RVITM), Bengaluru, with a strong passion for software and web development.
 
@@ -13,7 +13,7 @@ I enjoy solving real-world problems through technology and continuously improvin
 
 Beyond academics and development, I am a senior-level Carnatic music practitioner, which has helped me develop discipline, focus, creativity, and consistency — qualities that I bring into my professional journey.
 
-🎯 I am actively seeking internships and entry-level opportunities as a Software Developer to learn, contribute, and grow in a dynamic environment.
+I am actively seeking internships and entry-level opportunities as a Software Developer to learn, contribute, and grow in a dynamic environment.
 
 ---
 
@@ -26,7 +26,7 @@ Beyond academics and development, I am a senior-level Carnatic music practitione
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 🔗 LinkedIn: https://www.linkedin.com/in/at-vaishnavi1104
 📧 Email:vaishnavivishnu2004@gmail.com
