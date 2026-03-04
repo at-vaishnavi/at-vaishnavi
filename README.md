@@ -1,5 +1,5 @@
 # Hi, I'm Vaishnavi 👋  
-MCA Student | Aspiring Software Developer |  
+MCA Student | Aspiring Software Developer 
 
 ---
 
