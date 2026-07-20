@@ -9,6 +9,6 @@ MCA student at **RV Institute of Technology and Management (RVITM), Bengaluru**,
 Currently looking for internship opportunities to apply my technical skills and gain practical experience.
 
 ## Connect With Me
-🌐 Portfolio: https://vaishnavi-v-portfolio.netlify.app 
+🌐 Portfolio: https://vaishnavi-v-portfolio.netlify.app  
 🔗 LinkedIn: https://www.linkedin.com/in/at-vaishnavi1104  
 📧 Email: vaishnavivishnu2004@gmail.com
