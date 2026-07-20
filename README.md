@@ -1,13 +1,12 @@
 # Hi, I'm Vaishnavi 👋
 
-**MCA Student | Aspiring Software Developer**
+**MCA Student | Software Developer**
 
 ## About Me
 
-I am currently pursuing my MCA at **RV Institute of Technology and Management (RVITM), Bengaluru**.  
-I am passionate about software development and building web applications using modern technologies.
+MCA student at **RV Institute of Technology and Management (RVITM), Bengaluru**, with an interest in software development and web technologies.
 
-Currently seeking **internship and entry-level opportunities** to apply my skills, learn from real-world projects, and contribute effectively to a team.
+Currently looking for internship opportunities to apply my technical skills and gain practical experience.
 
 ## Connect With Me
 
