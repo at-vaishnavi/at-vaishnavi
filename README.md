@@ -10,5 +10,5 @@ Currently looking for internship opportunities to apply my technical skills and 
 
 ## Connect With Me
 🌐 Portfolio: https://vaishnavi-v-portfolio.netlify.app  
-🔗 LinkedIn: https://www.linkedin.com/in/at-vaishnavi1104  
+🔗 LinkedIn: https://www.linkedin.com/in/at-vaishnaviv/
 📧 Email: vaishnavivishnu2004@gmail.com
