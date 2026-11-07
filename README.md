@@ -10,7 +10,7 @@
 
 <br/>
 
-<a href="https://vaishnaviv-portfolio.netlify.app">Portfolio</a> &nbsp; · &nbsp;
+<a href="https://vaishnavi-v-portfolio.netlify.app/">Portfolio</a> &nbsp; · &nbsp;
 <a href="https://www.linkedin.com/in/at-vaishnaviv/">LinkedIn</a> &nbsp; · &nbsp;
 <a href="https://github.com/at-vaishnavi">GitHub</a>
 
@@ -98,7 +98,7 @@ I am interested in software development, frontend technologies and data analytic
 
 <br/>
 
-<a href="https://vaishnaviv-portfolio.netlify.app">
+<a href="https://vaishnavi-v-portfolio.netlify.app/">
 <img src="https://img.shields.io/badge/PORTFOLIO-312E81?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/at-vaishnaviv/">
