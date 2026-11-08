@@ -32,4 +32,4 @@ Experienced in developing frontend applications using React.js and working with 
 
 Portfolio: https://vaishnavi-v-portfolio.netlify.app/  
 LinkedIn: https://www.linkedin.com/in/at-vaishnaviv/  
-GitHub: https://github.com/at-vaishnavi
+
