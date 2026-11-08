@@ -2,11 +2,9 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:312E81,100:6366F1&height=220&section=header&text=VAISHNAVI%20V&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=ASPIRING%20SOFTWARE%20DEVELOPER&descSize=17&descColor=DDD6FE&descAlignY=60&animation=fadeIn" />
 
-<br/>
-
 ### MCA STUDENT · COMPUTER SCIENCE
 
-*Exploring technology, building skills and growing through continuous learning.*
+*Learning, building and exploring technology one step at a time.*
 
 <br/>
 
@@ -22,12 +20,13 @@
 
 Hello! I'm **Vaishnavi**, an MCA student at **RV Institute of Technology and Management, Bengaluru**, with an undergraduate background in Computer Science.
 
-I am interested in software development, frontend technologies and data analytics. I enjoy learning new concepts, working on practical applications and continuously strengthening my technical skills.
+I'm interested in software development, frontend technologies and data analytics. I enjoy turning ideas into practical applications, exploring new tools and continuously improving my technical skills.
 
-- 🎓 Master of Computer Applications | 2025–2027
+- 🎓 Master of Computer Applications (2025–2027)
 - 💻 Interested in software development and web technologies.
-- 📊 Exploring data analytics and emerging technologies.
-- 🌱 Always learning, experimenting and improving.
+- 📊 Exploring data analytics and visualization.
+- 🐳 Learning Docker and containerization fundamentals.
+- 🌱 Always curious to learn and build something new.
 
 ---
 
@@ -65,6 +64,16 @@ I am interested in software development, frontend technologies and data analytic
 <br/><br/>
 
 <img src="https://img.shields.io/badge/POWER%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=202020" />
+
+<br/><br/>
+
+### TOOLS & TECHNOLOGIES
+
+<img src="https://skillicons.dev/icons?i=docker,github&theme=light" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/DOCKER-BASICS-2496ED?style=flat-square&logo=docker&logoColor=white" />
 
 </div>
 
