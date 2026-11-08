@@ -89,7 +89,7 @@ I'm interested in software development, frontend technologies and data analytics
 
 <img width="49%" src="https://github-stats-extended.vercel.app/api?username=at-vaishnavi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
-<img width="49%" src="https://streak-stats.demolab.com?user=at-vaishnavi&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://streak-stats.demolab.com?user=at-vaishnavi&theme=tokyonight&hide_border=true&v=20261108" />
 
 <br/><br/>
 
