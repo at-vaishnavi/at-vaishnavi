@@ -1,62 +1,35 @@
-# Vaishnavi V
+# VAISHNAVI V
 
-**MCA Student | Aspiring Software Developer**
+**Master of Computer Applications | Software Development**
 
 Bengaluru, India
 
-[Portfolio](https://vaishnavi-v-portfolio.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/at-vaishnaviv/) · [GitHub](https://github.com/at-vaishnavi)
+[Portfolio](https://vaishnavi-v-portfolio.netlify.app/) | [LinkedIn](https://www.linkedin.com/in/at-vaishnaviv/) | [GitHub](https://github.com/at-vaishnavi)
 
 ---
 
-## About
+### PROFESSIONAL SUMMARY
 
-I am currently pursuing a Master of Computer Applications (MCA) at **RV Institute of Technology and Management, Bengaluru**, with an undergraduate background in Computer Science.
+MCA student at RV Institute of Technology and Management, Bengaluru, with an academic background in Computer Science. Focused on software development, web application development and data analytics.
 
-My interests include software development, web technologies and data analytics. I enjoy developing practical applications, understanding how technologies work and expanding my technical knowledge through hands-on learning.
+Experienced in developing frontend applications using React.js and working with Java, Python and SQL. Currently expanding technical knowledge in containerization using Docker and data analysis using Microsoft Excel and Power BI.
 
-Currently exploring **Docker and containerization**, along with data analytics tools such as Microsoft Excel and Power BI.
 
-## Education
+### TECHNICAL COMPETENCIES
 
-**Master of Computer Applications (MCA)**  
-RV Institute of Technology and Management, Bengaluru  
-2025 – 2027
-
-**Bachelor of Science – Computer Science**  
-Surana College Autonomous, Bengaluru  
-2022 – 2025
-
-## Technical Skills
-
-**Programming Languages**
-
-Java · Python · JavaScript
-
-**Frontend Development**
-
-HTML5 · CSS3 · React.js · AngularJS
-
-**Database**
-
-SQL
-
-**Data Analytics**
-
-Microsoft Excel · Power BI
-
-**Tools & Technologies**
-
-Docker (Learning) · GitHub
-
-## GitHub Statistics
-
-<div align="center">
-  <img width="48%" src="https://github-stats-extended.vercel.app/api?username=at-vaishnavi&show_icons=true&theme=default&hide_border=true" />
-  <img width="48%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=at-vaishnavi&layout=compact&theme=default&hide_border=true" />
-</div>
+| Category | Technologies |
+|---|---|
+| Programming | Java, Python, JavaScript |
+| Frontend Development | HTML5, CSS3, React.js, AngularJS |
+| Database | SQL |
+| Data Analytics | Microsoft Excel, Power BI |
+| Development Tools | GitHub |
+| Currently Learning | Docker, Containerization |
 
 ---
 
-## Connect
+### CONTACT
 
-[Portfolio](https://vaishnavi-v-portfolio.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/at-vaishnaviv/) · [Email](mailto:)
+Portfolio: https://vaishnavi-v-portfolio.netlify.app/  
+LinkedIn: https://www.linkedin.com/in/at-vaishnaviv/  
+GitHub: https://github.com/at-vaishnavi
