@@ -1,127 +1,62 @@
- <div align="center">
+# Vaishnavi V
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:312E81,100:6366F1&height=220&section=header&text=VAISHNAVI%20V&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=ASPIRING%20SOFTWARE%20DEVELOPER&descSize=17&descColor=DDD6FE&descAlignY=60&animation=fadeIn" />
+**MCA Student | Aspiring Software Developer**
 
-### MCA STUDENT · COMPUTER SCIENCE
+Bengaluru, India
 
-*Learning, building and exploring technology one step at a time.*
+[Portfolio](https://vaishnavi-v-portfolio.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/at-vaishnaviv/) · [GitHub](https://github.com/at-vaishnavi)
 
-<br/>
+---
 
-<a href="https://vaishnavi-v-portfolio.netlify.app/">Portfolio</a> &nbsp; · &nbsp;
-<a href="https://www.linkedin.com/in/at-vaishnaviv/">LinkedIn</a> &nbsp; · &nbsp;
-<a href="https://github.com/at-vaishnavi">GitHub</a>
+## About
 
+I am currently pursuing a Master of Computer Applications (MCA) at **RV Institute of Technology and Management, Bengaluru**, with an undergraduate background in Computer Science.
+
+My interests include software development, web technologies and data analytics. I enjoy developing practical applications, understanding how technologies work and expanding my technical knowledge through hands-on learning.
+
+Currently exploring **Docker and containerization**, along with data analytics tools such as Microsoft Excel and Power BI.
+
+## Education
+
+**Master of Computer Applications (MCA)**  
+RV Institute of Technology and Management, Bengaluru  
+2025 – 2027
+
+**Bachelor of Science – Computer Science**  
+Surana College Autonomous, Bengaluru  
+2022 – 2025
+
+## Technical Skills
+
+**Programming Languages**
+
+Java · Python · JavaScript
+
+**Frontend Development**
+
+HTML5 · CSS3 · React.js · AngularJS
+
+**Database**
+
+SQL
+
+**Data Analytics**
+
+Microsoft Excel · Power BI
+
+**Tools & Technologies**
+
+Docker (Learning) · GitHub
+
+## GitHub Statistics
+
+<div align="center">
+  <img width="48%" src="https://github-stats-extended.vercel.app/api?username=at-vaishnavi&show_icons=true&theme=default&hide_border=true" />
+  <img width="48%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=at-vaishnavi&layout=compact&theme=default&hide_border=true" />
 </div>
 
 ---
 
-## ABOUT ME
+## Connect
 
-Hello! I'm **Vaishnavi**, an MCA student at **RV Institute of Technology and Management, Bengaluru**, with an undergraduate background in Computer Science.
-
-I'm interested in software development, frontend technologies and data analytics. I enjoy turning ideas into practical applications, exploring new tools and continuously improving my technical skills.
-
-- 🎓 Master of Computer Applications (2025–2027)
-- 💻 Interested in software development and web technologies.
-- 📊 Exploring data analytics and visualization.
-- 🐳 Learning Docker and containerization fundamentals.
-- 🌱 Always curious to learn and build something new.
-
----
-
-## TECHNICAL SKILLS
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<div align="center">
-
-### PROGRAMMING
-
-<img src="https://skillicons.dev/icons?i=java,python,js&theme=light" />
-
-<br/><br/>
-
-### FRONTEND DEVELOPMENT
-
-<img src="https://skillicons.dev/icons?i=html,css,react,angular&theme=light" />
-
-</div>
-
-</td>
-<td width="50%" valign="top">
-
-<div align="center">
-
-### DATA ANALYTICS
-
-<br/>
-
-<img src="https://img.shields.io/badge/EXCEL-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/POWER%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=202020" />
-
-<br/><br/>
-
-### TOOLS & TECHNOLOGIES
-
-<img src="https://skillicons.dev/icons?i=docker,github&theme=light" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/DOCKER-BASICS-2496ED?style=flat-square&logo=docker&logoColor=white" />
-
-</div>
-
-</td>
-</tr>
-</table>
-
----
-
-## GITHUB STATISTICS
-
-<div align="center">
-
-<img width="49%" src="https://github-stats-extended.vercel.app/api?username=at-vaishnavi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-<img width="49%" src="https://streak-stats.demolab.com?user=at-vaishnavi&theme=tokyonight&hide_border=true&v=20261108" />
-
-<br/><br/>
-
-<img width="42%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=at-vaishnavi&layout=compact&theme=tokyonight&hide_border=true" />
-
-
-</div>
-
----
-
-## CONNECT WITH ME
-
-<div align="center">
-
-*Open to learning, meaningful collaborations and new opportunities.*
-
-<br/>
-
-<a href="https://vaishnavi-v-portfolio.netlify.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-312E81?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/at-vaishnaviv/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/at-vaishnavi">
-<img src="https://img.shields.io/badge/GITHUB-24292F?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<br/><br/>
-
-**Learn. Create. Evolve.**
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:312E81,100:0F172A&height=110&section=footer" />
-
-</div>
+[Portfolio](https://vaishnavi-v-portfolio.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/at-vaishnaviv/) · [Email](mailto:)
