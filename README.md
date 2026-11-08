@@ -4,7 +4,7 @@
 
 Bengaluru, India
 
-[Portfolio](https://vaishnavi-v-portfolio.netlify.app/) | [LinkedIn](https://www.linkedin.com/in/at-vaishnaviv/) | [GitHub](https://github.com/at-vaishnavi)
+[Portfolio](https://vaishnavi-v-portfolio.netlify.app/) | [LinkedIn](https://www.linkedin.com/in/at-vaishnaviv/) 
 
 ---
 
