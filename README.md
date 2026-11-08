@@ -95,6 +95,7 @@ I'm interested in software development, frontend technologies and data analytics
 
 <img width="42%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=at-vaishnavi&layout=compact&theme=tokyonight&hide_border=true" />
 
+
 </div>
 
 ---
