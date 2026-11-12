@@ -1,6 +1,6 @@
 # VAISHNAVI V
 
-**Master of Computer Applications | Software Development**
+**Master of Computer Applications | Aspiring Software Development**
 
 Bengaluru, India
 
