@@ -8,7 +8,7 @@ Bengaluru, India
 
 ---
 
-### PROFESSIONAL SUMMARY
+### SUMMARY
 
 MCA student at RV Institute of Technology and Management, Bengaluru, with an academic background in Computer Science. Focused on software development, web application development and data analytics.
 
