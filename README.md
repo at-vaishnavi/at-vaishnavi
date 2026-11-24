@@ -10,7 +10,7 @@ Bengaluru, India
 
 ### SUMMARY
 
-MCA student at RV Institute of Technology and Management, Bengaluru, with an academic background in Computer Science. Focused on software development, web application development and data analytics.
+MCA student, Focused on software development, web application development and data analytics.
 
 Experienced in developing frontend applications using React.js and working with Java, Python and SQL. Currently expanding technical knowledge in containerization using Docker and data analysis using Microsoft Excel and Power BI.
 
